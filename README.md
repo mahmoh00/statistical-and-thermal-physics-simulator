@@ -59,7 +59,7 @@ Maps quantum state occupancy dynamics for spin-$\frac{1}{2}$ indistinguishable f
 
 Below are the numerical values extracted from the continuous data loops, marking exactly where carrier concentrations peak across varying doping layers:
 
-![Command Window Verification Logs](assets/q3_terminal_extraction_logs.png)
+![Command Window Verification Logs](assets/q3_doped_carrier_profile.png)
 
 </details>
 
