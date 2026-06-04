@@ -51,7 +51,7 @@ Maps quantum state occupancy dynamics for spin-$\frac{1}{2}$ indistinguishable f
 
 | Extrinsic n-type Carrier Profile (Part B) | Extrinsic p-type Carrier Profile (Part B) |
 |:---:|:---:|
-| ![n-type Carrier Profile](assets/q3_ntype_carrier_profile.png) | ![p-type Carrier Profile](assets/q3_ptype_carrier_profile.png) |
+| ![n-type Carrier Profile](assets/q3_n-type_carrier_profile.png) | ![p-type Carrier Profile](assets/q3_p-type_carrier_profile.png) |
 
 #### Command Window Extraction Logs
 <details>
